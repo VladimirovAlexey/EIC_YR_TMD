@@ -8,3 +8,5 @@ Unpolarized/PseudoData/Data1/   : unpolarized data used in 1902.10663 (made by C
 
 	/pos_pions_multi_20x250_acceptance_unfolded.out  : original data file	 
 	/data1_bins.dat  : table made from original file without empty-fields, contains bin boundaries
+	
+Unpolarized/PseudoData/Data2/   : update of data1 with finer Q2 bins.
