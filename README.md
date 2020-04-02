@@ -12,7 +12,7 @@ Unpolarized/PseudoData/Data1/   : unpolarized data used in 1902.10663 (made by C
 Unpolarized/PseudoData/Data2/   : update of data1 with finer Q2 bins.
 
 
-## F<sub>UU<\sub>, F<sub>UT<\sub><sup>(φ<sub>h<\sub>-φ<sub>S<\sub>), F<sub>UT<\sub><sup>(φ<sub>h<\sub>+φ<sub>S<\sub>)
+## F<sub>UU</sub>, F<sub>UT</sub><sup>(φ<sub>h</sub>-φ<sub>S</sub>)</sup>, F<sub>UT</sub><sup>(φ<sub>h</sub>+φ<sub>S</sub>)</sup>
 Unpolarised structture function FUU, Sivers FUUSivesrs, and Collins FUTCollins from https://inspirehep.net/literature/1781484
 can be found in the following repository:
 
