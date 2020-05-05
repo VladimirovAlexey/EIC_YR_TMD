@@ -1,0 +1,18 @@
+Description of files in the directory:
+
+\Data1
+
+The unpolarized SIDIS cross-section pseudodata generated for 1902.10663. No detector effects!
+
+
+\Data2
+
+The same pseudo-data as in Data1 but with different binning. No detector effects!
+
+\Data3
+
+>at 18x275 GeV^2, including the acceptance cuts, as we discussed.
+These cuts were: momentum>0.5 GeV and rapidity between -4 and 4.
+When applying the DIS cuts Q^2>1 GeV^2; 0.01<y<0.95 and W^2>10 GeV^2, all
+scattered leptons automatically satisfy the acceptance cuts.
+
