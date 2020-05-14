@@ -16,3 +16,5 @@ These cuts were: momentum>0.5 GeV and rapidity between -4 and 4.
 When applying the DIS cuts Q^2>1 GeV^2; 0.01<y<0.95 and W^2>10 GeV^2, all
 scattered leptons automatically satisfy the acceptance cuts.
 
+(combined)= the combination of the 18x275 data and the 20x250 data  boosted to 18x275
+
