@@ -20,3 +20,18 @@ scattered leptons automatically satisfy the acceptance cuts.
 
 also there is 5 x 50 data
 
+\Data4
+
+Ralf's unpolarized xSec for various energies, and various acceptance options. 
+>The first several columns give you the bin's central values in the 4
+kinematic variables and the last three are xsec, expected uncertainties
+for 10 fb-1 and the estimate of the systematics by giving the
+differences of the perfect and smeared/acceptance xsecs.
+
+\Data4_parsed
+
+The Data4 parsed to artemide DataProcessor format
+
+\Data4_cut
+
+The Data4_parsed after the application of TMD cut (pT<0.25 zQ, Q>2, z>0.05) in artemide DataProcessor format
