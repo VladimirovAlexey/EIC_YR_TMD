@@ -27,6 +27,8 @@ Ralf's unpolarized xSec for various energies, and various acceptance options.
 kinematic variables and the last three are xsec, expected uncertainties
 for 10 fb-1 and the estimate of the systematics by giving the
 differences of the perfect and smeared/acceptance xsecs.
+Contains various options for PID _opt1 -- _opt6 (opt5 is prefered, opt6 is maximum PID)
+Contains also handbook realisation of detector _HB
 
 \Data4_parsed
 
