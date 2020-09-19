@@ -1,0 +1,25 @@
+Description of files in the directory:
+
+\Data1
+
+Ralf's Sivers and Collins asymetries for various energies, and various acceptance options. 
+>The first several columns give you the bin's central values in the 4
+kinematic variables and the last three are xsec, expected uncertainties
+for 10 fb-1 and the estimate of the systematics by giving the
+differences of the perfect and smeared/acceptance xsecs.
+Contains various options for PID _opt1 -- _opt6 (opt5 is prefered, opt6 is maximum PID)
+Contains also handbook realisation of detector _HB
+
+The following binning is used:
+x: 12 x  bins, 3 per decade from 10-4 to 1
+Q2:{1.,3.162,10.,31.62,100.,316.2,1000.,3162.,10000.}
+pt:{0.,0.05,0.1,0.2,0.3,0.5,0.7,0.9,1.2,1.5,1.8,2.4,4.0}
+z:{0.,0.05,0.1,0.15,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1.0}
+
+\Data1_parsed
+
+The Data1 parsed to artemide DataProcessor format
+
+\Data4_cut
+
+The Data1_parsed after the application of TMD cut (pT<0.3 zQ, Q>2, z>0.05) in artemide DataProcessor format
