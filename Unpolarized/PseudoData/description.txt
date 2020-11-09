@@ -37,3 +37,11 @@ The Data4 parsed to artemide DataProcessor format
 \Data4_cut
 
 The Data4_parsed after the application of TMD cut (pT<0.25 zQ, Q>2, z>0.05) in artemide DataProcessor format
+
+\DataEmpty
+
+The bins for EIC data in full possible kinematic covarage (xSec=100).
+
+\DataEmpty_cut
+
+The DataEmpty after the application of TMD cut (pT<0.25 zQ, Q>2, z>0.05)
