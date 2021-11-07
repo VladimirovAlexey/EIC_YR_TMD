@@ -45,3 +45,7 @@ The bins for EIC data in full possible kinematic covarage (xSec=100).
 \DataEmpty_cut
 
 The DataEmpty after the application of TMD cut (pT<0.25 zQ, Q>2, z>0.05)
+
+\ECCE
+
+Unoplarized pseudo data simulated in ECCE setup
