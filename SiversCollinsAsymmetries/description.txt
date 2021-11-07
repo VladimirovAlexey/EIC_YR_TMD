@@ -27,3 +27,10 @@ The Data1 parsed to artemide DataProcessor format
 \Data1_cut
 
 The Data1_parsed after the application of TMD cut (pT<0.3 zQ, Q>2, z>0.05) in artemide DataProcessor format
+
+
+\ECCE 
+
+Ralf's Sivers and Collins asymetries for various energies, using ECCE setup. 
+>All pseudo-data was again scaled to 10 fb-1 with a 70% proton beam polarization included in the
+statistical uncertainties. A global 3% uncertainty due to the beam polarization measurement is not included.
